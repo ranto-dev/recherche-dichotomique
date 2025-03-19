@@ -1,0 +1,6 @@
+[package]
+name = "recherche_dichotomique"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
